@@ -1,4 +1,5 @@
 README.txt
+setup.cfg
 setup.py
 Py_phylo_nexus.egg-info/PKG-INFO
 Py_phylo_nexus.egg-info/SOURCES.txt
@@ -10,3 +11,8 @@ Py_phylo_nexus.egg-info/requires.txt
 Py_phylo_nexus.egg-info/top_level.txt
 phylo/__init__.py
 phylo/nexus/__init__.py
+phylo/nexus/dialect.py
+phylo/nexus/reader.py
+phylo/nexus/writer.py
+tests/__init__.py
+tests/test_reader.py
